@@ -1,0 +1,28 @@
+/*addresses the entire body*/
+body {
+	background: #00ffbf;
+	font-size: 1.75em;
+}
+/*addresses the main title*/
+body header h1{
+
+	margin: 0 30% 0 30%;
+}
+/*addresses to the table*/
+table   {
+
+	margin: 2% 30% 0 30%;
+}
+/*addresses your answer print out*/
+p {
+	margin: 2% 30% 0 30%;
+}
+/*controls the button*/
+body header tr td button{
+	margin-top: 5%;
+}
+/*control the image*/
+.money{
+	max-width: 100%;
+	margin: 2% 30% 0 30%;
+}
